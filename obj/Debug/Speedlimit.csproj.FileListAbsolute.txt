@@ -1,0 +1,5 @@
+/Users/dennismeijboom/Projects/Speedlimit/Speedlimit/obj/Debug/Speedlimit.csprojAssemblyReference.cache
+/Users/dennismeijboom/Projects/Speedlimit/Speedlimit/bin/Debug/Speedlimit.exe
+/Users/dennismeijboom/Projects/Speedlimit/Speedlimit/bin/Debug/Speedlimit.pdb
+/Users/dennismeijboom/Projects/Speedlimit/Speedlimit/obj/Debug/Speedlimit.exe
+/Users/dennismeijboom/Projects/Speedlimit/Speedlimit/obj/Debug/Speedlimit.pdb
